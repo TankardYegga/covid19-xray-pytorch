@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\WebC]
+"URL Protocol"="D:\\09017231毛泊涵\\毕设\\code\\dist\\prediction.exe"
+@="WebCProtocol"
+[HKEY_CLASSES_ROOT\WebC\DefaultIcon]
+@="D:\\09017231毛泊涵\\毕设\\code\\dist\\prediction.exe,1"
+[HKEY_CLASSES_ROOT\WebC\shell]
+[HKEY_CLASSES_ROOT\WebC\shell\open]
+[HKEY_CLASSES_ROOT\WebC\shell\open\command]
+@="\"D:\\09017231毛泊涵\\毕设\\code\\dist\\prediction.exe\"\"%1\""
